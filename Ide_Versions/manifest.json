@@ -1,0 +1,21 @@
+{
+    "$lastversion": {
+        "Name": "Ide",
+        "Version": "2.1",
+        "Description": {
+            "рус": [
+                "Модуль spek был переназван в LangModule",
+                "Добавлен новый покет 'install', - для pip3"
+            ],
+            "eng": [
+                "Модуль spek был переназван в LangModule",
+                "Добавлен новый покет 'install', - для pip3"
+            ]
+        },
+        "DateTime": "2022312172218",
+        "url": "https://github.com/777Chara777/pkgcaches/"
+    },
+    "$versions": {
+        
+    }
+}
