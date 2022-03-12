@@ -1,6 +1,7 @@
 {
   "$lastversion": {
     "Name": "ide",
+    "Number": 0,
     "Version": "V2.1",
     "Description": {
       "рус": [
@@ -12,12 +13,13 @@
         "Added new package 'install', - for pip3"
       ]
     },
-    "DateTime": "20220312212335",
+    "DateTime": "20220312212629",
     "url": "https://github.com/777Chara777/pkgcaches/ides/ideV2.1.zip"
   },
   "$versions": {
     "V2.1": {
       "Name": "ide",
+      "Number": 0,
       "Version": "V2.1",
       "Description": {
         "рус": [
@@ -29,7 +31,7 @@
           "Added new package 'install', - for pip3"
         ]
       },
-      "DateTime": "20220312212335",
+      "DateTime": "20220312212629",
       "url": "https://github.com/777Chara777/pkgcaches/ides/ideV2.1.zip"
     }
   }
