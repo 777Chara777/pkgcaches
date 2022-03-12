@@ -1,21 +1,4 @@
 {
-    "$lastversion": {
-        "Name": "ide",
-        "Version": "V2.1",
-        "Description": {
-            "рус": [
-                "Модуль spek был переназван в LangModule",
-                "Добавлен новый покет 'install', - для pip3"
-            ],
-            "eng": [
-                "Модуль spek был переназван в LangModule",
-                "Добавлен новый покет 'install', - для pip3"
-            ]
-        },
-        "DateTime": "2022312172218",
-        "url": "https://github.com/777Chara777/pkgcaches/ides/ideV2.1.zip"
-    },
-    "$versions": {
-        
-    }
+    "$lastversion": {},
+    "$versions": {}
 }
