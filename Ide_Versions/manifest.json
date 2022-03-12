@@ -1,46 +1,5 @@
 {
-  "$lastversion": {
-    "Name": "ide",
-    "Version": "V2.3",
-    "Description": {
-      "рус": [
-        "тэст"
-      ],
-      "eng": [
-        "test"
-      ]
-    },
-    "DateTime": "20220312202301",
-    "url": "https://github.com/777Chara777/pkgcaches/ides/ideV2.3.zip"
-  },
-  "$versions": {
-    "V2.2": {
-      "Name": "ide",
-      "Version": "V2.2",
-      "Description": {
-        "рус": [
-          "тэст"
-        ],
-        "eng": [
-          "test"
-        ]
-      },
-      "DateTime": "20220312202232",
-      "url": "https://github.com/777Chara777/pkgcaches/ides/ideV2.2.zip"
-    },
-    "V2.3": {
-      "Name": "ide",
-      "Version": "V2.3",
-      "Description": {
-        "рус": [
-          "тэст"
-        ],
-        "eng": [
-          "test"
-        ]
-      },
-      "DateTime": "20220312202301",
-      "url": "https://github.com/777Chara777/pkgcaches/ides/ideV2.3.zip"
-    }
+  "$lastversion": {},
+  "$versions": {}
   }
 }
