@@ -1,20 +1,22 @@
 {
   "$lastversion": {
     "Name": "ide",
-    "Number": 0,
-    "Version": "V2.1",
+    "Number": 1,
+    "Version": "V2.2",
     "Description": {
       "рус": [
-        "Модуль spek был переназван в LangModule",
-        "Добавлен новый покет 'install', - для pip3"
+        "Ru",
+        "dr",
+        "sddd"
       ],
       "eng": [
-        "The spek module has been renamed to LangModule",
-        "Added new package 'install', - for pip3"
+        "En",
+        "gf",
+        "hggg"
       ]
     },
-    "DateTime": "20220312212629",
-    "url": "https://github.com/777Chara777/pkgcaches/ides/ideV2.1.zip"
+    "DateTime": "20220313002456",
+    "url": "https://github.com/777Chara777/pkgcaches/ides/ideV2.2.zip"
   },
   "$versions": {
     "V2.1": {
@@ -33,6 +35,25 @@
       },
       "DateTime": "20220312212629",
       "url": "https://github.com/777Chara777/pkgcaches/ides/ideV2.1.zip"
+    },
+    "V2.2": {
+      "Name": "ide",
+      "Number": 1,
+      "Version": "V2.2",
+      "Description": {
+        "рус": [
+          "Ru",
+          "dr",
+          "sddd"
+        ],
+        "eng": [
+          "En",
+          "gf",
+          "hggg"
+        ]
+      },
+      "DateTime": "20220313002456",
+      "url": "https://github.com/777Chara777/pkgcaches/ides/ideV2.2.zip"
     }
   }
 }
