@@ -1,7 +1,7 @@
 {
     "$lastversion": {
-        "Name": "Ide",
-        "Version": "2.1",
+        "Name": "ide",
+        "Version": "V2.1",
         "Description": {
             "рус": [
                 "Модуль spek был переназван в LangModule",
@@ -13,7 +13,7 @@
             ]
         },
         "DateTime": "2022312172218",
-        "url": "https://github.com/777Chara777/pkgcaches/"
+        "url": "https://github.com/777Chara777/pkgcaches/ides/ideV2.1.zip"
     },
     "$versions": {
         
