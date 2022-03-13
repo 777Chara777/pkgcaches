@@ -1,20 +1,22 @@
 {
   "$lastversion": {
     "Name": "ide",
-    "Number": 0,
-    "Version": "V2.1",
+    "Number": 1,
+    "Version": "V2.2",
     "Description": {
       "рус": [
-        "Модуль spek был переназван в LangModule",
-        "Добавлен новый покет 'install', - для pip3"
+        "Был удалён IDE_V1.2.py ",
+        "Теперь можно использовать install",
+        "Теперь можно создовать заполненные проекты"
       ],
       "eng": [
-        "The spek module has been renamed to LangModule",
-        "Added new package 'install', - for pip3"
+        "ide_V1.2.py has been removed",
+        "Now you can use the install",
+        "Now you can create completed projects"
       ]
     },
-    "DateTime": "20220312212629",
-    "url": "https://github.com/777Chara777/pkgcaches/ides/ideV2.1.zip"
+    "DateTime": "20220314000231",
+    "url": "https://github.com/777Chara777/pkgcaches/ides/ideV2.2.zip"
   },
   "$versions": {
     "V2.1": {
@@ -33,6 +35,25 @@
       },
       "DateTime": "20220312212629",
       "url": "https://github.com/777Chara777/pkgcaches/ides/ideV2.1.zip"
+    },
+    "V2.2": {
+      "Name": "ide",
+      "Number": 1,
+      "Version": "V2.2",
+      "Description": {
+        "рус": [
+          "Был удалён IDE_V1.2.py ",
+          "Теперь можно использовать install",
+          "Теперь можно создовать заполненные проекты"
+        ],
+        "eng": [
+          "ide_V1.2.py has been removed",
+          "Now you can use the install",
+          "Now you can create completed projects"
+        ]
+      },
+      "DateTime": "20220314000231",
+      "url": "https://github.com/777Chara777/pkgcaches/ides/ideV2.2.zip"
     }
   }
 }
