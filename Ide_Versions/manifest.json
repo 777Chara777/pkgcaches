@@ -5,12 +5,10 @@
     "Version": "V2.2",
     "Description": {
       "рус": [
-        "Был удалён IDE_V1.2.py ",
         "Теперь можно использовать install",
         "Теперь можно создовать заполненные проекты"
       ],
       "eng": [
-        "ide_V1.2.py has been removed",
         "Now you can use the install",
         "Now you can create completed projects"
       ]
@@ -42,12 +40,10 @@
       "Version": "V2.2",
       "Description": {
         "рус": [
-          "Был удалён IDE_V1.2.py ",
           "Теперь можно использовать install",
           "Теперь можно создовать заполненные проекты"
         ],
         "eng": [
-          "ide_V1.2.py has been removed",
           "Now you can use the install",
           "Now you can create completed projects"
         ]
