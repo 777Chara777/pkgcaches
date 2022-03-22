@@ -1,20 +1,18 @@
 {
   "$lastversion": {
     "Name": "ide",
-    "Number": 1,
-    "Version": "V2.2",
+    "Number": 2,
+    "Version": "V2.3",
     "Description": {
       "рус": [
-        "Теперь можно использовать install",
-        "Теперь можно создовать заполненные проекты"
+        "Добавили новый функционал для 'edit' а именно '/-'."
       ],
       "eng": [
-        "Now you can use the install",
-        "Now you can create completed projects"
+        "Added new functionality for 'edit', namely '/-'."
       ]
     },
-    "DateTime": "20220314000231",
-    "url": "https://github.com/777Chara777/pkgcaches/ides/ideV2.2.zip"
+    "DateTime": "20220322231659",
+    "url": "https://github.com/777Chara777/pkgcaches/ides/ideV2.3.zip"
   },
   "$versions": {
     "V2.1": {
@@ -50,6 +48,21 @@
       },
       "DateTime": "20220314000231",
       "url": "https://github.com/777Chara777/pkgcaches/ides/ideV2.2.zip"
+    },
+    "V2.3": {
+      "Name": "ide",
+      "Number": 2,
+      "Version": "V2.3",
+      "Description": {
+        "рус": [
+          "Добавили новый функционал для 'edit' а именно '/-'."
+        ],
+        "eng": [
+          "Added new functionality for 'edit', namely '/-'."
+        ]
+      },
+      "DateTime": "20220322231659",
+      "url": "https://github.com/777Chara777/pkgcaches/ides/ideV2.3.zip"
     }
   }
 }
