@@ -12,7 +12,7 @@
       ]
     },
     "DateTime": "20220322231659",
-    "url": "https://github.com/777Chara777/pkgcaches/ides/ideV2.3.zip"
+    "url": "https://github.com/777Chara777/pkgcaches/raw/main/Ide_Versions/ides/ideV2.3.zip"
   },
   "$versions": {
     "V2.1": {
@@ -30,7 +30,7 @@
         ]
       },
       "DateTime": "20220312212629",
-      "url": "https://github.com/777Chara777/pkgcaches/ides/ideV2.1.zip"
+      "url": "https://github.com/777Chara777/pkgcaches/raw/main/Ide_Versions/ides/ideV2.1.zip"
     },
     "V2.2": {
       "Name": "ide",
@@ -47,7 +47,7 @@
         ]
       },
       "DateTime": "20220314000231",
-      "url": "https://github.com/777Chara777/pkgcaches/ides/ideV2.2.zip"
+      "url": "https://github.com/777Chara777/pkgcaches/raw/main/Ide_Versions/ides/ideV2.2.zip"
     },
     "V2.3": {
       "Name": "ide",
@@ -62,7 +62,7 @@
         ]
       },
       "DateTime": "20220322231659",
-      "url": "https://github.com/777Chara777/pkgcaches/ides/ideV2.3.zip"
+      "url": "https://github.com/777Chara777/pkgcaches/raw/main/Ide_Versions/ides/ideV2.3.zip"
     }
   }
 }
