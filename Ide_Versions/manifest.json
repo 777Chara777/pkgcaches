@@ -5,10 +5,17 @@
     "Version": "V2.3",
     "Description": {
       "рус": [
-        "Добавили новый функционал для 'edit' а именно '/-'."
+        "Добавили новый функционал для 'edit' а именно '/-'.",
+        "Был изменён main файл.",
+        "Также ide были переведены в новую папку ides.",
+        "Отредактированы Ide."
+
       ],
       "eng": [
-        "Added new functionality for 'edit', namely '/-'."
+        "Added new functionality for 'edit', namely '/-'.",
+        "The main file has been changed.",
+        "Also ide have been moved to new ides folder.",
+        "Edited by Ide."
       ]
     },
     "DateTime": "20220322231659",
