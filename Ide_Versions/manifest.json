@@ -1,25 +1,18 @@
 {
   "$lastversion": {
     "Name": "ide",
-    "Number": 2,
-    "Version": "V2.3",
+    "Number": 3,
+    "Version": "V2.3_2",
     "Description": {
       "рус": [
-        "Добавили новый функционал для 'edit' а именно '/-'.",
-        "Был изменён main файл.",
-        "Также ide были переведены в новую папку ides.",
-        "Отредактированы Ide."
-
+        "Добавлен новый плаген view"
       ],
       "eng": [
-        "Added new functionality for 'edit', namely '/-'.",
-        "The main file has been changed.",
-        "Also ide have been moved to new ides folder.",
-        "Edited by Ide."
+        "Added new plugin view"
       ]
     },
-    "DateTime": "20220322231659",
-    "url": "https://github.com/777Chara777/pkgcaches/raw/main/Ide_Versions/ides/ideV2.3.zip"
+    "DateTime": "20220323170027",
+    "url": "https://github.com/777Chara777/pkgcaches/raw/main/Ide_Versions/ides/ideV2.3_2.zip"
   },
   "$versions": {
     "V2.1": {
@@ -66,7 +59,6 @@
           "Был изменён main файл.",
           "Также ide были переведены в новую папку ides.",
           "Отредактированы Ide."
-
         ],
         "eng": [
           "Added new functionality for 'edit', namely '/-'.",
@@ -77,6 +69,21 @@
       },
       "DateTime": "20220322231659",
       "url": "https://github.com/777Chara777/pkgcaches/raw/main/Ide_Versions/ides/ideV2.3.zip"
+    },
+    "V2.3_2": {
+      "Name": "ide",
+      "Number": 3,
+      "Version": "V2.3_2",
+      "Description": {
+        "рус": [
+          "Добавлен новый плаген view"
+        ],
+        "eng": [
+          "Added new plugin view"
+        ]
+      },
+      "DateTime": "20220323170027",
+      "url": "https://github.com/777Chara777/pkgcaches/raw/main/Ide_Versions/ides/ideV2.3_2.zip"
     }
   }
 }
