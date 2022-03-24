@@ -1,18 +1,18 @@
 {
   "$lastversion": {
     "Name": "ide",
-    "Number": 3,
-    "Version": "V2.3_2",
+    "Number": 4,
+    "Version": "V2.3_3",
     "Description": {
       "рус": [
-        "Добавлен новый плаген view"
+        "баг фикс"
       ],
       "eng": [
-        "Added new plugin view"
+        "bug fix"
       ]
     },
-    "DateTime": "20220323170027",
-    "url": "https://github.com/777Chara777/pkgcaches/raw/main/Ide_Versions/ides/ideV2.3_2.zip"
+    "DateTime": "20220324104925",
+    "url": "https://github.com/777Chara777/pkgcaches/raw/main/Ide_Versions/ides/ideV2.3_3.zip"
   },
   "$versions": {
     "V2.1": {
@@ -84,6 +84,21 @@
       },
       "DateTime": "20220323170027",
       "url": "https://github.com/777Chara777/pkgcaches/raw/main/Ide_Versions/ides/ideV2.3_2.zip"
+    },
+    "V2.3_3": {
+      "Name": "ide",
+      "Number": 4,
+      "Version": "V2.3_3",
+      "Description": {
+        "рус": [
+          "баг фикс"
+        ],
+        "eng": [
+          "bug fix"
+        ]
+      },
+      "DateTime": "20220324104925",
+      "url": "https://github.com/777Chara777/pkgcaches/raw/main/Ide_Versions/ides/ideV2.3_3.zip"
     }
   }
 }
